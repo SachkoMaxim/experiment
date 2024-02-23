@@ -10,8 +10,8 @@
 # look
 **bold** **not bold **
 
-_italic_ _irl_ ```
-` `monospaced``
+_italic_ _irl_
+`monospaced`
 ```
 Preformatted text **He He**
 ```
